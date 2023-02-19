@@ -1,4 +1,4 @@
-# Bachelor Thesis
+# RNN and ESN for Human State and Activity Recognition
 
 This repo includes my three-year thesis work performed during my Computer Science studies at the University of Pisa. 
 
